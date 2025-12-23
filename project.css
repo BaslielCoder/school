@@ -1,0 +1,27 @@
+body{
+ background-color: lightblue;
+}
+.welcome{
+    background-color: rgb(233, 131, 100);
+    margin: 10px;
+    padding: 10px;
+
+}
+.schooling{
+    background-color: rgb(233, 131, 100);
+    padding:20px;
+    text-align:center;
+    margin: 0;
+    border: 3px solid rgb(255, 8, 8);
+}
+.schooling:hover{
+    margin: 0px;
+    padding: 1px;
+    box-shadow: 4px 4px 10px black;;
+}
+.nav{
+    text-align: center;
+    background-color: rgb(233, 131, 100);
+    padding: 1px;
+    border: 3px solid rgb(255, 8, 8);
+}
